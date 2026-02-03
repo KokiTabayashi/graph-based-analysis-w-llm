@@ -1,7 +1,7 @@
 ## University of California, Berkeley
 ### Master of Information and Data Science Program (MIDS)
 
-##### Team project: 
+### Project: 
 ## Extracting Insights from Customer Feedback Using LLMs and Graph Algorithms: 
 ### From Text Embeddings to Multi-Layer Knowledge Graphs
 
