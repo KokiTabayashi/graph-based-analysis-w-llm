@@ -1,5 +1,5 @@
-## University of California, Berkeley
-### Master of Information and Data Science Program (MIDS)
+# University of California, Berkeley
+## Master of Information and Data Science Program (MIDS)
 
 ### Project: 
 ## Extracting Insights from Customer Feedback Using LLMs and Graph Algorithms: 
