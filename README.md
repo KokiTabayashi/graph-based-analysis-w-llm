@@ -7,7 +7,6 @@
 
 * Year: 2025
 * Semester: Fall
-* Instructor: Kevin Crook
 * Team Members:
     * Koki Tabayashi
     * Ravi Revankar
